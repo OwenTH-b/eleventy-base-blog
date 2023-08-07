@@ -1,5 +1,5 @@
 module.exports = {
-	title: "Test edit for the block title",
+	title: "Owen's 11ty Blog",
 	url: "https://example.com/",
 	language: "en",
 	description: "I am writing about my experiences as a naval navel-gazer.",
